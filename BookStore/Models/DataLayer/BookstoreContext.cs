@@ -1,4 +1,5 @@
-﻿using BookStore.Models.DomainModels;
+﻿using BookStore.Models.DataLayer.SeedData;
+using BookStore.Models.DomainModels;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
